@@ -11,10 +11,6 @@ Developer from Italy. I build web apps with Nuxt and Vue, and spend the rest of 
 - **[fatturazione-elettronica-aruba](https://github.com/zangetsu02/fatturazione-elettronica-aruba)**: TypeScript SDK for Aruba's e-invoicing API (Italian SDI)
 - **[zed-discord-theme](https://github.com/zangetsu02/zed-discord-theme)**: Discord's dark theme for Zed (also [for VS Code](https://github.com/zangetsu02/dark-discord-theme))
 
-#### Contributing to
-
-- **[dev-null.sh](https://github.com/dev-null-sh/dev-null.sh)**: a social network for developers
-
 #### Omarchy bar widgets
 
 - **[omarchy-fortivpn](https://github.com/zangetsu02/omarchy-fortivpn)**: FortiClient VPN status and one-click SAML login
